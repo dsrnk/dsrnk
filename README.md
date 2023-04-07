@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dsrnk
-- 👀 I’m interested in DevOps,Data-Engineering,Cloud Security
-- 🌱 I’m currently learning Azure and implimenting APM solutions for my organisation
+- 👀 I’m interested in DevOps,Data-Engineering,Cloud Security.
+- 🌱 I’m currently working in Azure and implimenting APM solutions for my organisation.
 - 💞️ I’m looking to collaborate on Data engineering & DevSecOps Practices on AWS,AZURE,GCP,OCI
 - 📫 How to reach me twitter :durgasaran_
 -                    
