@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsrnk
-- I’m interested in DevOps,Data-Engineering,Cloud Security.
-- I’m currently working with Azure and implimenting APM solutions for my organisation.
-- I’m looking to collaborate on Data engineering & DevSecOps Practices on AWS,AZURE,GCP,OCI
+- I’m interested in Observability, DevSecOps,Cloud Security.
+- I’m currently working with Dynatrace, Implimenting Dynatrce for clients 
+- I’m looking to collaborate on Observability & DevSecOps Practices on AWS,AZURE,GCP,OCI
 - 📫 Reach me twitter : durgasaran_                 
 
 <!---
