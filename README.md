@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dsrnk
-- I’m interested in Observability, DevSecOps,Cloud Security.
-- I’m currently working with Dynatrace, Implimenting Dynatrce for clients 
-- I’m looking to collaborate on Observability & DevSecOps Practices on AWS,AZURE,GCP,OCI
+- 👋 Hi, I’m Durga Saran
+- I’m interested in Observability, DevSecOps, Cloud Security.
+- I’m currently working with Dynatrace, implementing Dynatrce & creating observability practices for clients 
+- I’m looking to collaborate on Observability & DevSecOps Practices on AWS, AZURE,GCP, OCI
 - 📫 Reach me twitter : durgasaran_                 
 
 <!---
